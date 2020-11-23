@@ -1,2 +1,1 @@
-# bullet-crash
-vsc
+Project 20 of WhiteHat Jr. -Krish Garg
